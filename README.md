@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-VPN-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TunnelBear Free Installer** — TunnelBear is a user-friendly VPN service for Windows, macOS, iOS, and Android known for its playful design and straightforward interface. Works without internet access, no account required. Full offline installation.
+**💻 TunnelBear Free Installer** — TunnelBear is a user-friendly VPN service with a distinctive bear-themed interface that makes VPN accessible to non-technical users. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About TunnelBear
 
-TunnelBear is a user-friendly VPN service for Windows, macOS, iOS, and Android known for its playful design and straightforward interface. With servers in 40+ countries, a strict no-logging policy, and a free tier with 2GB monthly data, TunnelBear makes VPN accessible for non-technical users. Annual security audits and transparent privacy practices build trust in the service.
+TunnelBear is a user-friendly VPN service with a distinctive bear-themed interface that makes VPN accessible to non-technical users. It offers a genuinely free tier with monthly data limits and paid plans with unlimited data and priority servers.
 
 ---
 
 ## ❌ Problem: TunnelBear is hard to access
 
-- **Free Tier Limitation** — 2GB monthly data limit on free plan severely limits regular use
-- **Server Count** — Fewer server locations than major VPN providers
-- **Speed** — Performance sometimes slower than premium competitors
-- **Advanced Features** — Fewer power-user features than NordVPN or Mullvad
+- **Free Tier Limit** — 500MB monthly data cap on free plan severely limits casual use
+- **Speed** — Speeds slower than premium VPN competitors
+- **Owned by McAfee** — Acquisition by McAfee raises privacy concerns for some users
+- **Limited Server Locations** — Fewer server locations than major VPN providers
 
 ---
 
@@ -121,7 +121,7 @@ TunnelBear is a user-friendly VPN service for Windows, macOS, iOS, and Android k
 
 ---
 
-**TunnelBear Free Installer** — TunnelBear is a user-friendly VPN service for Windows, macOS, iOS, and Android known for its playful design and straightforward interface. Install without internet connection today!
+**TunnelBear Free Installer** — TunnelBear is a user-friendly VPN service with a distinctive bear-themed interface that makes VPN accessible to non-technical users. Install without internet connection today!
 
 <div align="center">
 
